@@ -5,6 +5,7 @@ ruby "3.2.4"
 gem "bootstrap", "~> 5.2"
 gem "simple_form"
 gem "sassc-rails"
+gem "dotenv-rails"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.4"
